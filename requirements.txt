@@ -1,0 +1,11 @@
+pip
+wheel
+setuptools
+langchain
+langchain-community
+langchain-openai
+openai
+pydantic
+beautifulsoup4
+requests
+faiss-cpu
